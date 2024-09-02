@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/126256577?v=4" align="center" style="width: 35%" />
-</div>  
+
   
 
 ### <div align="center">I'm Achyut , a full-time full-stack developer </div>  
