@@ -4,7 +4,7 @@
 ### <div align="center">I'm Achyut , a full-time full-stack developer </div>  
   
 
-- 🔭 I’m currently working on [Github Anonymous](https://github.com/achyutthapa7/Anonymous)  
+- 🔭 I’m currently working on [Blog post using redux and ts](https://github.com/achyutthapa7/blog-post-using-ts-redux)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
