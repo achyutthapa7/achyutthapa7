@@ -4,7 +4,7 @@
 ### <div align="center">I'm Achyut , a full-time full-stack developer </div>  
   
 
-- 🔭 I’m currently working on [Blog post using Next js and ts](https://github.com/achyutthapa7/twinspark)  
+- 🔭 I’m currently working on (https://github.com/achyutthapa7/twinspark)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
